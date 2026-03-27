@@ -25,7 +25,4 @@ Ubuntu Server installation, SSH configuration, and Apache Web Server setup and t
 - Cryptography Basics
 - GitHub
 
-## Contact
-Email: your-email@example.com  
-LinkedIn: https://www.linkedin.com/
-GitHub: https://github.com/Rushen27
+
